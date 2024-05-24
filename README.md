@@ -1,6 +1,3 @@
-Claro! Aqui está uma descrição para o seu projeto "Extrator" que você pode usar no GitHub:
-
----
 
 # Extrator
 
